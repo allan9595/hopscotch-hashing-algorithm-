@@ -14,6 +14,7 @@ Course: CSCE 3110.001
 Usage:
 
 g++ pg_2_bohan_zhang.cpp
+
 ./a.out
 
 Description: 
