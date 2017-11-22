@@ -1,4 +1,3 @@
-//
 //  pg_2_bohan_zhang.cpp
 //  csce3110_bohan
 
@@ -7,6 +6,7 @@
 
 //  Copyright © 2017 allan chang. All rights reserved.
 //
+
 Name: Bohan Zhang 
 
 Course: CSCE 3110.001
